@@ -17,4 +17,5 @@ Topic: My own Wikipedia Structure
 	* Finally, you can design your own Wikipedia.
 * **Where can I get more help, if I need it?**
 	* If you want to more information and watch presentation,
-		go -> 
+		go -> https://www.youtube.com/watch?v=f2vKcmQWQ_k&feature=youtu.be
+	* References: https://opentutorials.org/course/3167/19590
