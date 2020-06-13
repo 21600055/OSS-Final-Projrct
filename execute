@@ -1,0 +1,11 @@
+#!/bin/bash
+
+#This will copy php files to /var/www/html
+
+sudo cp main.html /var/www/html 
+sudo cp select.php /var/www/html
+sudo cp create.php /var/www/html
+sudo cp update.php /var/www/html
+sudo cp delete.php /var/www/html
+sudo cp process_create.php /var/www/html
+sudo cp process_update.php /var/www/html
