@@ -8,7 +8,7 @@ Topic: My own Wikipedia Structure
 	* This Project offer peoples to use Wikipedia fundamental structure
 	and can let people to modify one's styles. 
 * **Why is this project useful?**
-	
+	* Maybe It will be useful who need to store private data
 * **How do I get started?**
 	* Fisrtly, you need to have lamp, which is Linux, Apache, Mysql, Php
 	 If you don't install above things see the serversetting.pdf file
