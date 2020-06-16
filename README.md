@@ -19,3 +19,4 @@ Topic: My own Wikipedia Structure
 	* If you want to more information and watch presentation,
 		go -> https://www.youtube.com/watch?v=f2vKcmQWQ_k&feature=youtu.be
 	* References: https://opentutorials.org/course/3167/19590
+	* PDF Reference: Professor Whlee
