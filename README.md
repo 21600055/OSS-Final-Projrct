@@ -20,3 +20,6 @@ Topic: My own Wikipedia Structure
 		go -> https://www.youtube.com/watch?v=f2vKcmQWQ_k&feature=youtu.be
 	* References: https://opentutorials.org/course/3167/19590
 	* PDF Reference: Professor Whlee
+* **What I do?**
+	* Make main form for data' process(insert,search, update, delete)
+	* Make database table and attribute
