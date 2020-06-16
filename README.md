@@ -23,3 +23,4 @@ Topic: My own Wikipedia Structure
 * **What I do?**
 	* Make main form for data' process(insert,search, update, delete)
 	* Make database table and attribute
+	* Make shell script for initial install
